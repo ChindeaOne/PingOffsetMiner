@@ -68,6 +68,8 @@ This is a temporary maintenance for the mod, until either the original creator (
 
 All credit belongs to xevalia (even new code)!
 
+As requested, no ai will touch this project.
+
 <!-- ABOUT THE PROJECT -->
 ## About POM
 
