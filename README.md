@@ -61,7 +61,12 @@
   </ol>
 </details>
 
+<!-- MAINTENANCE DISCLAIMER -->
+## DISCLAIMER
 
+This is a temporary maintenance for the mod, until either the original creator (xevalia) will come back to work on it or i commit to fully maintain it from now on.
+
+All credit belongs to xevalia (even new code)!
 
 <!-- ABOUT THE PROJECT -->
 ## About POM
